@@ -1,0 +1,4 @@
+In this data visualisation project, the U.S. currency is compared against some of the top currencies in the world.
+Although the CSV file contains the exchange rate of every country, users can select which countries they would like to display
+in their graphs by changing the code accordingly. This interactive plot can simultaneously compare exchange rates and also filter for 
+specific time periods using the slider.
